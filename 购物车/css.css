@@ -1,0 +1,162 @@
+*{
+	padding:0;
+	margin:0;
+	list-style: none;
+	outline: none;
+
+}
+.header{
+	width: 1000px;
+	height: 40px;
+	border-top:4px solid #A7CBFF;
+	border-left: 1px solid #A7CBFF;
+	border-bottom: 1px solid #A7CBFF;
+	color: #687182;
+	font-size: 25px;
+	font-weight: bold;
+	overflow: hidden;
+}
+.header li{
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	float: left;
+	border-right: 1px solid #A7CBFF;
+	box-sizing: border-box;
+}
+.lione{
+	width: 400px;
+}
+.litwo{
+	width: 100px;
+}
+.lithree{
+	width: 200px;
+}
+.lifour{
+	width: 100px;
+}
+.lifive{
+	width: 200px;
+}
+img{
+	width: 75px;
+}
+.body{
+	height: 80px;
+	border-left: 1px solid #A7CBFF;
+	border-bottom: 1px solid #A7CBFF;
+	width: 1000px;
+	overflow: hidden;
+
+}
+.body li{
+	float: left;
+	height: 80px;
+	line-height: 80px;
+	border-right: 1px solid #A7CBFF;
+	box-sizing: border-box;
+
+
+}
+.sp{
+	width: 400px;
+}
+.dj{
+	width: 100px;
+	text-align: center;
+}
+.sl{
+	width: 200px;
+	text-align: center;
+	overflow: hidden;
+}
+.xj{
+	width: 100px;
+	text-align: center;
+	color: red;
+	font-weight: bold;
+}
+.sc{
+	width: 200px;
+	text-align: center;
+	cursor: pointer;
+}
+.left{
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	background-color: #F0F0F0;
+	float: left;
+	margin-top: 28px;
+	margin-left: 50px;
+	cursor: pointer;
+
+}
+.right{
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	background-color: #F0F0F0;
+	float: left;
+	margin-top: 28px;
+	cursor: pointer;
+}
+input{
+	width: 50px;
+	height: 20px;
+	box-sizing: border-box;
+	text-align: center;
+	float: left;
+	margin-top: 28px;
+}
+.end{
+	width: 900px;
+	height: 50px;
+	line-height: 50px;
+	border-right: 1px solid #A7CBFF;
+	background-color: #ECECEC;
+	float: left;
+	box-sizing: border-box;
+
+}
+.pone{
+	width: 100px;
+	height: 50px;
+	float: left;
+	cursor: pointer;
+}
+.ptwo{
+	width: 220px;
+	height: 50px;
+	float: left;
+	margin-left: 550px;
+
+}
+.fin{
+	width: 100px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	font-weight: bold;
+	box-sizing: border-box;
+	border-right: 1px solid #A7CBFF;
+	background-color: #ECECEC;
+	float: left;
+}
+.jie{
+	height: 50px;
+	width: 1000px;
+	margin-top: 30px;
+	overflow: hidden;
+	border-top:1px solid #A7CBFF;
+	border-bottom:1px solid #A7CBFF;
+	border-left:1px solid #A7CBFF;
+
+}
+.ALL{
+	width: 1002px;
+	margin: 50px auto;
+}
